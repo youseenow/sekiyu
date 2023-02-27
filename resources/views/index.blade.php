@@ -4,7 +4,7 @@
 <header>
     <div class="header">
 
-        <h1><img src="http://nenshou.xsrv.jp/img/cont_title.gif" alt="日本石油燃焼機器保守協会情報"></h1>
+        <h1><img src="../images/cont_title.gif" alt="日本石油燃焼機器保守協会情報"></h1>
 
         <nav>
             <ul>
@@ -33,7 +33,7 @@
             </ul>
 
             <div class="dvdbanner">
-                <a href="http://nenshou.xsrv.jp/img/dvdlink2.pdf" target="_blank"><img src="http://nenshou.xsrv.jp/img/dvdbanner.gif"></a>
+                <a href="http://nenshou.xsrv.jp/img/dvdlink2.pdf" target="_blank"><img src="../images/dvdbanner.gif"></a>
             </div>
         </nav>
 
